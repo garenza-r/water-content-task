@@ -21,4 +21,4 @@ For both years, many different crop codes with mutual appearances on both öko a
   
 For most of the crop codes in öko farming methods, the value of NDMI is oftentimes a little bit higher than konvencionális. It might suggest that öko shows resilience and tends to store water better than konvencionális. However, the pattern of the spectral signature might be different. The period where each index value might rise or drop might be affected by the crop types, planting, and harvesting period.
   
-For further results, see the codes attached.
+For further results, see the codes attached inside `script` branch.
